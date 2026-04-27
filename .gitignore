@@ -1,3 +1,8 @@
-._*
 .DS_Store
-*.xlsx
+._*
+.Spotlight-V100
+.Trashes
+~
+*.tmp
+.ipynb_checkpoints/
+__pycache__/
